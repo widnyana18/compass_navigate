@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097430292397",
+    "firebase_url": "https://compassnavigate.firebaseio.com",
+    "project_id": "compassnavigate",
+    "storage_bucket": "compassnavigate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097430292397:android:3b9bcf3f8f627bbbf57324",
+        "android_client_info": {
+          "package_name": "com.example.compass_navigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097430292397-1dnvkld46l4jcjsc5em4sn6bgf2k1ueq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.compass_navigate",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "1097430292397-rj87ci7add1cl11j7beel5fp9g1ho4gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJBwCBEUhd3yDjDBy32-cljjVihGJ3aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097430292397-rj87ci7add1cl11j7beel5fp9g1ho4gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
